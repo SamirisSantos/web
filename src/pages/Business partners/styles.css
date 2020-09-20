@@ -1,0 +1,6 @@
+
+.body p{
+    margin-bottom: 1.6rem;
+    font: 300 1.4rem Poppins;
+    color: var(--color-primary);
+}

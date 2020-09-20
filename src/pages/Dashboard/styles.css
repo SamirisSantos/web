@@ -1,0 +1,16 @@
+#page-Dashboard {
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+.container{
+    width: 100vw;
+    height: 88vh;
+    display: flex;
+}
+
+.bodyboard{
+    margin-top: 1.6rem;
+    margin-left: 3.2rem;
+}
