@@ -5,7 +5,7 @@
 # Santé
 
 <h1 align="center"> 
-    <img alt="Santé" src="https://github.com/SamirisSantos/web/blob/master/src/assets/image/logo.png">
+    <img alt="Santé" src="https://drive.google.com/file/d/1feBTevrft_zOUsP5a-845lCR-GqRPMpC/view?usp=sharing">
 </h1>
 
 
