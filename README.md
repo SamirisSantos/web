@@ -2,12 +2,12 @@
     <img alt="Zenvia" src="https://zenviaexperience.com/wp-content/themes/zenvia/img/logo-horizon.png" width="400px" />
 </h1>
 
-# Santé
 
 <h1 align="center"> 
-    <img alt="Santé" src="https://drive.google.com/file/d/1feBTevrft_zOUsP5a-845lCR-GqRPMpC/view?usp=sharing">
+    <img alt="Santé" src="https://user-images.githubusercontent.com/22383046/93723438-f4cbda80-fb74-11ea-9a6c-49ae764eb14d.png" width="200px">
 </h1>
 
+# Santé
 
 <p> Santé é uma plataforma que conecta de forma personalizada através de bot, o médico e o paciente. Possibilitando maior retenção de clientes, otimização de tempo e custo menor. Ela permite que o usuário escolha a quantidade de vezes que deseja ser contactado pelo médico, entrega benefícios para aqueles que batem metas e ofertas de parceiros da plataforma. Através do API da Zenvia, podemos utilizar o whatsapp para fazer esse acompanhamento.</p>
 
@@ -22,11 +22,19 @@
 Back end [git]()
 
 ## Equipe
-[Abner Machado](https://www.linkedin.com/in/abnerdev/) Desenvolvedor
 
-[Samiris Santos](https://www.linkedin.com/in/samiris-santos/) UI/UX
+[Abner Machado](https://www.linkedin.com/in/abnerdev/) Developer
+
+[Samiris Santos](https://www.linkedin.com/in/samiris-santos/) UI/UX Desugner
 
 [Midian Brandão](https://www.linkedin.com/in/midian-brand%C3%A3o/) Marketing
 
 [Tatiane Mikami](https://www.linkedin.com/in/tatimkm/) Business
 
+## Organização
+
+<h2 align="left"> 
+    <img alt="shawee" src="https://yt3.ggpht.com/a/AATXAJzZi69TRoL6JQjNQ2h5tBS91PmXiUjk7MxhoOH4xw=s900-c-k-c0xffffffff-no-rj-mo" width="100px">
+</h2>
+
+[Shawee](https://shawee.io/pt)
